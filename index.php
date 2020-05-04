@@ -1,4 +1,11 @@
 <?php
+/*
+  Author: Uğur KILCI
+  Website: ugurkilci.com
+  Version: 1.0
+  Story: It is a code system that I have been dreaming of for years, not to not buy extra hosting.
+*/
+
 $domain = "https://www.girisimzel.com/ugurkilci/"; // Enter your domain. Don't forget to put "/" at the end of the link.
 $q = @$_GET["q"]; // Query
 
